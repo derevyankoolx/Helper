@@ -38,3 +38,7 @@ li {
     bottom: -75%;
     right: 100px;
 }
+.goTop:hover {
+    transform: scale(1.2);
+    transition: 1s;
+}
