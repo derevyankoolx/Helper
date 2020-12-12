@@ -22,6 +22,10 @@ header {
 .header_copy {
     float: right;
 }
+.header_copy a {
+    text-decoration: none;
+    color: #fff;
+}
 ul li {
     display: inline-block;
 }
