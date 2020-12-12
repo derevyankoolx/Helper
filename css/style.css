@@ -22,7 +22,7 @@ header {
 .header_copy {
     float: right;
 }
-.header_copy a {
+.header_copy span a {
     text-decoration: none;
     color: #fff;
 }
